@@ -1,5 +1,16 @@
 #mypic {
     height: 200px;
     width: 200px;
-    margin: 0px 25px 25px 25px;
+    margin: 0px 25px 10px 0px;
+}
+
+body {
+    background-color: rgb(222, 223, 223);
+    background-image: url("./background\ green\ blue\ .jpeg");
+}
+
+
+form {
+    background-color: whitesmoke;
+    padding: 20px;
 }
