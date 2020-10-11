@@ -1,12 +1,12 @@
 # responsivePortfolio
 Homework 2 - CSS and Bootstrap: Responsive Portfolio
 
-Application runs in browser.
+The application runs in browser.
 
-Start with a index.html, portfolio.html, and then contact.html file. Adding style.css at the very end. Be sure to include an assets folder and upload your assets/images you will be using in there. 
+Using Bootstrap I created a nav bar, forms, containers, rows, and a footer. When clicking the items on my Navbar, they go to the correct pages. 
+I also included links of all of my social media in my About Me.
 
-Using Bootstrap I added a navbar, forms, containers, rows, and a footer. When clicking the items on my Navbar, they go to the correct pages. 
-Included links of all  of my social media in my About Me.
+I started with an index.html, portfolio.html, contact.html, and a style.css file. I learned how to link all of them together, and make sure when I deploy it, everything connects and functions properly. I added all the styling at the very end. I learned how to include an assets folder and upload images to be used from directly in there. When doing my stylesheet, I customized the margins, color, and padding. 
 
 <img width="1164" alt="Screen Shot 1" src="https://user-images.githubusercontent.com/71522463/95667561-a464ee80-0b1c-11eb-95f4-4e794c09437c.png">
 <img width="1162" alt="Screen Shot 2" src="https://user-images.githubusercontent.com/71522463/95667562-a6c74880-0b1c-11eb-997c-f89f372e727b.png">
