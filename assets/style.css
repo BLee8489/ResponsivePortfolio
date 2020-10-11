@@ -1,7 +1,19 @@
 #mypic {
     height: 200px;
     width: 200px;
-    margin: 0px 25px 10px 0px;
+    margin: 0px 30px 5px 0px;
+}
+
+#linkedin {
+    margin: 50px;
+}
+
+#instagram {
+    margin: 50px;
+}
+
+#facebook {
+    margin: 50px;
 }
 
 body {
